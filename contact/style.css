@@ -1,0 +1,274 @@
+.num1{
+		left:65%;
+		width:18%;
+		top: 63%;
+		height: 36%;
+		position: absolute;
+		opacity: 0.6;
+		z-index: 3;
+	}
+	.num2{
+		left:55%;
+		width:15%;
+		top: 60%;
+		height: 20%;
+		position: absolute;
+		opacity: 0.6;
+		z-index: 3;
+	}
+	.num3{
+		left:74%;
+		width:15%;
+		top: 32%;
+		height: 34%;
+		position: absolute;
+		opacity: 0.6;
+		z-index: 3;
+	}
+	.num4{
+		left:48%;
+		width:8%;
+		top: 35%;
+		height: 18%;
+		position: absolute;
+		opacity: 0.6;
+		z-index: 3;
+	}
+	.num5{
+		left:39%;
+		width:5%;
+		top: 36%;
+		height: 14%;
+		position: absolute;
+		opacity: 0.6;
+		z-index: 3;
+	}
+	.num6{
+		left:36%;
+		width:10%;
+		top: 49%;
+		height: 12%;
+		position: absolute;
+		opacity: 0.6;
+		z-index: 3;
+	}
+	.num7{
+		left:57%;
+		width:9%;
+		top: 51%;
+		height: 13%;
+		position: absolute;
+		opacity: 0.6;
+		z-index: 3;
+	}
+	.num8{
+		left:33%;
+		width:11%;
+		top: 62%;
+		height: 31%;
+		position: absolute;
+		opacity: 0.6;
+		z-index: 3;
+	}
+	.num16{
+		left:43%;
+		width:13%;
+		top: 51%;
+		height: 28%;
+		position: absolute;
+		opacity: 0.4;
+		z-index: 3;
+	}
+	.num12{
+		left:23%;
+		width:11%;
+		top: 33%;
+		height: 20%;
+		position: absolute;
+		opacity: 0.4;
+		z-index: 3;
+	}
+	.num14{
+		left:10%;
+		width:28%;
+		top: 55%;
+		height: 20%;
+		position: absolute;
+		opacity: 0.4;
+		z-index: 3;
+		-ms-transform: rotateZ(346deg); /* IE 9 */
+		-webkit-transform: rotateZ(346deg); /* Chrome, Safari, Opera */
+		transform: rotateZ(346deg);
+	}
+	#container { 
+		position: relative;
+		width:100%;
+		height:100%;
+		}
+	#below, #top1, #top2, #top3, #top4, #top5, #top6, #top7, #top8, #top9, #top10, #top11, #top12, #top13, #top14, #top15, #top16 { position: absolute;}
+	/* num2 will be on top of num1 */
+	#below { 
+		z-index: 1;
+		background-position: center;
+		background-repeat:no-repeat;
+		background-image:url('images/back.gif');
+		width:100%;
+		height:100%;
+		left:0;
+		}
+	#top1 { 
+		z-index: 2;
+		background-image:url('images/photography.jpg');
+			background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#top2 { 
+		z-index: 2;
+		background-image:url('images/registrations.jpg');
+			background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#top3 { 
+		z-index: 2;
+		background-image:url('images/non_technical.jpg');
+			background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#top4 { 
+		z-index: 2;
+		background-image:url('images/chief.jpg');
+		background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#top5 { 
+		z-index: 2;
+		background-image:url('images/protocol.jpg');
+			background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#top6 { 
+		z-index: 2;
+		background-image:url('images/hospatality.jpg');
+			background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#top7 { 
+		z-index: 2;
+		background-image:url('images/technical.jpg');
+			background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#top8 { 
+		z-index: 2;
+		background-image:url('images/treasury.jpg');
+			background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#top9 { 
+		z-index: 2;
+		background-image:url('images/ritu.jpg');
+			background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#top12 { 
+		z-index: 2;
+		background-image:url('images/student_coordinator.jpg');
+			background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#top14 { 
+		z-index: 2;
+		background-image:url('images/dandd.jpg');
+			background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#top15 { 
+		z-index: 2;
+		background-image:url('images/hospatality.jpg');
+			background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#top16 { 
+		z-index: 2;
+		background-image:url('images/public_relations.jpg');
+			background-position: center;
+		background-repeat:no-repeat;
+		width:100%;
+		height:100%;
+		left:0;
+		display:none;
+		}
+	#contactPage{
+		display:none;
+	}
+		.teamName,.name,.email,.mobNo{
+			text-align: center;
+		}
+		.teamName{
+			margin-bottom: 10px;
+			margin-top: 30px;
+		}
+		.name{
+			margin-top: 10px;
+			margin-bottom: 3px;
+		}
+		
+	@media (max-width:1064px){
+		body{
+			background-image:none;
+		}
+		#wrapper{
+			display:none;
+		}
+		#contactPage{
+			display:block;
+		}
+	}
