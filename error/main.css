@@ -1,0 +1,49 @@
+img{
+display: none;
+}
+
+h2, p, h3, h4{
+font-size: 160%;
+font-family: 'Ubuntu', sans-serif;
+}
+
+#dull
+{
+color: gray;
+}
+
+a{
+color: blue;
+}
+
+div{
+color: #FFAB00;
+}
+
+@media only screen and (min-width: 1024px) {
+h2, p, h3, h4{
+font-size: 160%;
+font-family: 'Ubuntu', sans-serif;
+}
+
+#dull
+{
+color: gray;
+}
+
+a{
+color: blue;
+}
+
+div{
+top: 15%;
+color: #FFAB00;
+padding:2%;
+}
+
+img{
+display: inherit;
+height: 85%;
+top: 20%;
+}
+}
