@@ -1,0 +1,18 @@
+<NAV>
+                    <a href="management_events.php">Management Events</a>
+                    <div class="arrow">&#5171;</div>
+                    <a href="bcom.php">COMMERCE</a>
+                </NAV>
+
+
+ <NAV>
+            <a href="management_events.php">Management Events</a>
+            <div class="arrow">&#5171;</div>
+            <a href="hotel_management.php">HOTEL MANAGEMENT</a>
+        </NAV>
+
+<NAV>
+            <a href="management_events.php">Management Events</a>
+            <div class="arrow">&#5171;</div>
+            <a href="klubs.php">KLU Business School</a>
+        </NAV>
