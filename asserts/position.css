@@ -1,0 +1,296 @@
+#below,
+#top1,
+#top2,
+#top3,
+#top4,
+#top5,
+#top6,
+#top7,
+#top8,
+#top9,
+#top10,
+#top11,
+#top12,
+#top13,
+#top14,
+#top15,
+#top16 {
+	position: absolute;
+}
+
+#below {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	background-image: url(images/gifs/GIFbitch1.gif);
+	background-size: 100% 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+}
+
+.num1 {
+	left: 47%;
+	width: 8%;
+	top: 35%;
+	height: 20%;
+	position: absolute;
+	opacity: 0.6;
+	z-index: 3;
+}
+
+.num2 {
+	left: 4%;
+	width: 27%;
+	top: 50%;
+	height: 30%;
+	position: absolute;
+	opacity: 0.6;
+	z-index: 3;
+}
+
+.num3 {
+	left: 35%;
+	width: 10%;
+	top: 48%;
+	height: 12%;
+	position: absolute;
+	opacity: 0.6;
+	z-index: 3;
+}
+
+.num4 {
+	left:80%;
+	width: 15%;
+	top: 30%;
+	height: 37%;
+	position: absolute;
+	opacity: 0.6;
+	z-index: 3;
+}
+
+.num5 {
+	left: 74%;
+	width: 12%;
+	top: 66%;
+	height: 28%;
+	position: absolute;
+	opacity: 0.6;
+	z-index: 3;
+}
+
+.num6 {
+	left: 35%;
+	width: 8%;
+	top: 37%;
+	height: 10%;
+	position: absolute;
+	opacity: 0.6;
+	z-index: 3;
+}
+
+.num7 {
+	left: 42%;
+	width: 15%;
+	top: 55%;
+	height: 16%;
+	position: absolute;
+	opacity: 0.6;
+	z-index: 3;	
+}
+
+.num8 {
+	left: 58%;
+	width: 15%;
+	top: 60%;
+	height: 16%;
+	position: absolute;
+	opacity: 0.6;
+	z-index: 3;
+}
+
+.num9 {
+	left: 18%;
+	width: 14%;
+	top: 32%;
+	height: 17%;
+	position: absolute;
+	opacity: 0.6;
+	z-index: 3;
+}
+
+.num10 {
+	left: 58%;
+	width: 9%;
+	top: 50%;
+	height: 10%;
+	position: absolute;
+	opacity: 0.4;
+	z-index: 3;
+}
+
+.num11 {
+	left: 30%;
+	width: 13%;
+	top: 60%;
+	height: 30%;
+	position: absolute;
+	opacity: 0.4;
+	z-index: 3;
+}
+
+#top1 {
+	z-index: 2;
+	background-image: url(images/gifs/compresed/chief_adviser.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	display: none;
+}
+
+#top2 {
+	z-index: 2;
+	background-image: url(images/gifs/compresed/designing_and_drafting_final_img1.jpg);
+	background-size: cover;
+	background-position: calc(100% - 0px) calc(100% - 1.2px); 
+	width: 100%;
+	height: 100%;
+	left: 0;
+	display: none;
+	margin-bottom:0px;
+}
+
+#top3 {
+	z-index: 2;
+	background-image: url(images/gifs/compresed/hospitality_blurred_final1.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	display: none;
+}
+
+#top4 {
+	z-index: 2;
+	background-image: url(images/gifs/compresed/non_technical_blurred_final1.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	display: none;
+}
+
+#top5 {
+	z-index: 2;
+	background-image: url(images/gifs/compresed/photography_blurred_final1.jpg);
+	background-position: calc(100% - 0px) calc(100% - 1.2px); 
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	display: none;
+}
+
+#top6 {
+	z-index: 2;
+	background-image: url(images/gifs/compresed/protocol_blurred_final1.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	display: none;
+}
+
+#top7 {
+	z-index: 2;
+	background-image: url(images/gifs/compresed/public_relations_blurred_final1.jpg);
+	background-position: calc(100% - 0px) calc(100% - 1.2px); 
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	display: none;
+}
+
+#top8 {
+	z-index: 2;
+	background-image: url(images/gifs/compresed/registrations_blurred_final1.jpg);
+	background-size: cover;
+	background-position: calc(100% - 0px) calc(100% - 1.2px); 
+	width: 100%;
+	height: 100%;
+	left: 0;
+	display: none;
+}
+
+#top9 {
+	z-index: 2;
+	background-image: url(images/gifs/compresed/student_coordinator1.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	display: none;
+}
+
+#top10 {
+	z-index: 2;
+	background-image: url(images/gifs/compresed/technical_blurred_final1.jpg);
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	display: none;
+}
+
+#top11 {
+	z-index: 2;
+	background-image: url(images/gifs/compresed/treasury_blurred_final1.jpg);
+	background-position: calc(100% - 0px) calc(100% - 1.2px); 
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	display: none;
+}
+#cont { 
+		position: relative;
+		width:100%;
+		height:100%;
+		}
+#contactPage {
+	display: none;
+}
+
+.teamName,
+.name,
+.email,
+.mobNo {
+	text-align: center;
+}
+
+.teamName {
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+
+.name {
+	margin-top: 10px;
+	margin-bottom: 3px;
+}
+
+@media (max-width:1064px) {
+	#below {
+		background-image: none;
+	}
+	body {
+		background-image: none;
+	}
+	#contactPage {
+		display: block;
+	}
+}
